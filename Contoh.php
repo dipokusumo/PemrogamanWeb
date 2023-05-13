@@ -2,7 +2,7 @@
 <body>
   
 <?php
-  echo "Hello World!";
+  echo "Hello Ciao!";
   print "<br>lagi belajar php";
 ?>
   
